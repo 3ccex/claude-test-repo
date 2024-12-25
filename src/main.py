@@ -1,1 +1,5 @@
-ZGVmIGhlbGxvX2dpdGh1YigpOgogICAgcHJpbnQoJ0hlbGxvIGZyb20gQ2xhdWRlIScpCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgaGVsbG9fZ2l0aHViKCk=
+def hello_github():
+    print('Hello from Claude!')
+
+if __name__ == '__main__':
+    hello_github()
